@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @MuhammadHKhan
-- 👀 I’m interested in Software Engineering and Cloud Architecture.
-- 🌱 I’m currently learning C++, Java, C#, HTML/CSS
-- 💞️ I’m looking to collaborate on web applications, system architectures, and software engineering aspects for any company.
-- 📫 How to reach me: mhkhan7011@gmail.com or 310-755-4423
-
-<!---
-MuhammadHKhan/MuhammadHKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* My name is Muhammad Khan and I have recently graduated from the University of Nevada, Las Vegas with a Bachelor's of Science in Computer Science.'
+*
+* I am an aspiring software engineer open to any roles that can help me integrate into a professional team-oriented enviornment to develop clean, optimized  * code and futher enhance my technical skills.
+* 
+* I am proficient with C++ along with having prior experience in Python, Java, and Assembly (x86).
+* I also have an interest in cloud technologies and have a few AWS Certifications to increase my comprehension in the cloud.
+* AWS Certified Cloud Practitioner & AWS Certified Solutions Architect Associate 
+* 
+* You may reach me via email: mhkhan7011@gmail.com or phone: (310) 755-4423.
+*
+* Current Resume: https://docs.google.com/document/d/1EDbdjLTlJ1usPvmtHL1ZNApK8RCeafAfxVPwHu30NGI/edit?usp=sharing
